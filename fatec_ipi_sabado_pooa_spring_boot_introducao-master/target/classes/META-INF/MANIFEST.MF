@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 13
+Implementation-Title: fatec_ipi_sabado_pooa_spring_boot_introducao
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
